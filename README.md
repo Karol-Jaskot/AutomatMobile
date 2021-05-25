@@ -10,7 +10,7 @@ Internet application simulating the operation of a vending machine with drinks. 
 ##
 
 This project is hosted and ready to use. (the application is currently not adapted to mobile devices) App adress:
-https://automat2.herokuapp.com/
+https://automat-jaskot.herokuapp.com/
 
 ##
 
